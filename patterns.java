@@ -20,3 +20,4 @@ public class patterns {
         hollow_rectangle(10, 10);
     }
 }
+
